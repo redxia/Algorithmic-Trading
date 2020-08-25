@@ -1,1 +1,3 @@
-In this week we explore finding data online and calculating averages for returns. There could be a lot more improvements in codes and commenting, however I found this exercise to be very insightful and fun!
+# Hidden Markov Model
+
+In this R code, we explore the hidden markov model in predicting regime shifts. The two most common regime shift are recession and normal times. Based on the SP 500, we were able to accurately predict the SP 500 corona virus pandemic crash on February 21, 2020. This makes it useful for applying market views.
