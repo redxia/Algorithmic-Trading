@@ -1,1 +1,1 @@
-In this week we explore finding data online and calculating averages for returns. There could be a lot more improvements in codes and commenting, however I found this exercise to be very insightful and fun!
+In this notebook you will find me implementing the Gap-Up and Gap Down Momentum day trading strategy. The main conclusion from this is that during highly market volatility we can confirm momentum works.
